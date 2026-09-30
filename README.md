@@ -12,7 +12,7 @@ The idea is simple — one beautiful background, a collection of soft Bengali so
 
 ---
 --- 
-## For  Durga Puja U can try this this link : (Thank me for this )
+## For  Durga Puja U can try this link : (Thank me for this )
 
 LINK : https://duggaelo-pink.vercel.app/
 ---
