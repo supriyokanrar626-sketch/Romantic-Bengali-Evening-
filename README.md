@@ -8,6 +8,15 @@ The idea is simple — one beautiful background, a collection of soft Bengali so
 
 ---
 
+## Vercel Link : https://romantic-bengali-evening.vercel.app/
+
+---
+--- 
+## For  Durga Puja U can try this this link : (Thank me for this )
+
+LINK : https://duggaelo-pink.vercel.app/
+---
+
 ## ✨ Features
 
 - 🎵 YouTube Playlist Integration
